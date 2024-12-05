@@ -2,7 +2,7 @@
 
 Show "whiter than white color" for certain browsers using only CSS hack (without HDR video elements).
 
-```html
+```css
 #whiter {
   color: white;
   filter: brightness(1.5);
